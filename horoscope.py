@@ -1,6 +1,7 @@
 # Telegram Bot for horoscopes
-# API Token is required and should be added to your .env file
-#
+# API Token is required and should be added to your .env file TOKEN=API_KEY
+# Install pip module in CLI `pip install pyTelegramBotAPI`
+
 import requests
 import os
 import telebot
